@@ -1,6 +1,6 @@
 # Customer Care Chatbot Project
 
-Dự án xây dựng Chatbot hỗ trợ tài xế xanh XM trong việc tra cứu thông tin 
+Dự án xây dựng Chatbot hỗ trợ tài xế xanh XM trong việc tra cứu thông tin mới. 
 
 ## Cấu trúc thư mục
 
