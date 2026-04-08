@@ -1,6 +1,6 @@
 # Customer Care Chatbot Project
 
-Dự án xây dựng Chatbot hỗ trợ chăm sóc khách hàng
+Dự án xây dựng Chatbot hỗ trợ tài xế xanh XM trong việc tra cứu thông tin 
 
 ## Cấu trúc thư mục
 
@@ -26,11 +26,3 @@ pip install -r requirements.txt
 # Chạy chatbot
 python main.py
 ```
-
-## Features
-- [ ] Intent detection
-- [ ] Entity extraction
-- [ ] Multi-language support (Vietnamese)
-- [ ] Customer service responses
-- [ ] Database integration
-- [ ] RESTful API
