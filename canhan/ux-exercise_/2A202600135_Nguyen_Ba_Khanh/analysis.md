@@ -32,7 +32,7 @@
 - Khi AI sai, chatbot vẫn liệt kê vào mục chi tiêu cũ 
 - Không có feedback theo tag mỗi khi lưu 
 - User không thao tác được trên chatbot 
-- User chán và bỏ dùng 
+- User chán và bỏ dùng Moni
 
 ## Gap marketing vs thực tế
 - Moni được truyền thông như một công cụ quản lý chi tiêu thông minh.
