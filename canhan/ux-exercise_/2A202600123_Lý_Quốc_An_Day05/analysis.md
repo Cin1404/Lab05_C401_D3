@@ -31,7 +31,7 @@
 - Gap lớn nhất: marketing không nói về khi AI sai — user kỳ vọng 100% chính xác
 
 ## Sketch
-![alt text](458e602d-888d-46f7-91ac-f2572f39309b.jpg)
+![alt text](sketch.jpg)
 - As-is: giao dịch → auto-tag → user thấy kết quả → nếu sai phải vào sửa thủ công
 - To-be: giao dịch → auto-tag → nếu confidence thấp: hiện "Bạn muốn phân loại?"
   → user chọn → AI ghi nhận correction → hiện "Đã học, lần sau sẽ chính xác hơn"
