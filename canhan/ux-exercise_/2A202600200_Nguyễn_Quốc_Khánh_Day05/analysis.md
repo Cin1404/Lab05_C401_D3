@@ -35,8 +35,6 @@ Dưới đây là bản khung (template) Markdown giúp bạn hệ thống lại
 
 ## Phần 3 — Sketch "Làm tốt hơn" (10 phút)
 
-> **Lưu ý:** Phần này bạn hãy vẽ tay ra giấy theo cấu trúc sau.
-
 ### Vấn đề chọn: Cải thiện Path 3 (Khi AI sai hạng mục chi tiêu)
 
 #### **Vế trái: As-is (Hiện tại)**
